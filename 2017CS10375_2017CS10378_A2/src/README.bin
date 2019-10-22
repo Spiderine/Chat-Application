@@ -1,0 +1,5 @@
+Compile.sh is run to compile the server and client file .
+Permission must be given in order to run the shell file .
+which can be given by chmod +x compile.sh
+in order to run client type the command
+java (filename (client1,2,3) ) (username) (IPaddress)
